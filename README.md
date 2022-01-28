@@ -19,9 +19,7 @@
         git config --local user.name "usename"
         git config --local user.email "email@email.com"
         ```
-        
-        - 
-    
+	
 - Parte 2 - Iniciando os trabalhos
     - Comandos
         - `git add <file> or git add .` → adiciona um, ou vários, respectivamente, arquivos para serem committed, ou seja: faz com que o Git passe a tomar conta das alterações desses arquivos.
@@ -42,10 +40,9 @@
         - [Git log cheatsheet](https://devhints.io/git-log)
     
     > Não dê commit em código que não funcione
-    > 
     
     > Dê commit em pontos significativos do desenvolvimento
-    > 
+
 - Parte 3 - Compartilhando o trabalho
     - Um repositório remoto é um repositório externo que mantém as modificações no código fonte de um repositório local
     - Comandos
@@ -70,7 +67,7 @@
         - `git log --graph` → exibe um log com gráfico da árvore de alterações
     - Conflitos
         
-        ![Separado por ====== estão as alterações no branch atual e as alterações vindas do branch a ser combinado, basta escolher qual alteração deve permanecer e apagar o que for relacionado à outra alteração](Capacitac%CC%A7a%CC%83o%20Git%205ff21d188a49451791e7ee278bc4dea0/Untitled.png)
+        ![Separado por ====== estão as alterações no branch atual e as alterações vindas do branch a ser combinado, basta escolher qual alteração deve permanecer e apagar o que for relacionado à outra alteração](README/Untitled.png)
         
         Separado por ====== estão as alterações no branch atual e as alterações vindas do branch a ser combinado, basta escolher qual alteração deve permanecer e apagar o que for relacionado à outra alteração
         
